@@ -32,9 +32,9 @@ Then open up browser to http://localhost:5000
 
 You can use these images to test it - these are photos of a job posting with NLP Logix:
 
-* [Job Posting 1](https://www.torzyn.com/ocr/senior_python_developer_nlplogix1.jpg)
-* [Job Posting 2](https://www.torzyn.com/ocr/senior_python_developer_nlplogix2.jpg)
-* [Job Posting 3](https://www.torzyn.com/ocr/senior_python_developer_nlplogix3.jpg)
+* [Job Posting 1](https://www.torzyn.com/ocr/senior_python_developer_nlplogix1_sm.jpg)
+* [Job Posting 2](https://www.torzyn.com/ocr/senior_python_developer_nlplogix2_sm.jpg)
+* [Job Posting 3](https://www.torzyn.com/ocr/senior_python_developer_nlplogix3_sm.jpg)
 
 ## Deployed to AWS Elastic Beanstalk
 
