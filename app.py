@@ -12,8 +12,9 @@ __source__ = ''
 
 app = Flask(__name__)
 UPLOAD_FOLDER = './static/uploads'
+MAX_UPLOAD_SIZE = 10485760
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER 
-app.config['MAX_CONTENT_PATH'] = 10485760
+app.config['MAX_CONTENT_PATH'] = MAX_UPLOAD_SIZE
 
 @app.route("/")
 def index():
